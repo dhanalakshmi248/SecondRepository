@@ -1,0 +1,6 @@
+class A{
+int a=10;
+public static void main(String args[])
+{
+A a=new A();
+System.out.println("value of a is...."+a);
