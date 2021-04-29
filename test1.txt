@@ -1,11 +1,14 @@
 class A{
 int a=10;
 int b=20;
+int c=30;
 public static void main(String args[])
 {
 A a=new A();
 System.out.println("value of a is...."+a);
 B b=new B();
 System.out.println("value of b is..."+b);
+C c=new C();
+System.out.println("value of c is..."+c);
 }
 }
